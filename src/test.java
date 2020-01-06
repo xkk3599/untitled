@@ -7,5 +7,6 @@ public class test {
         int age =scanner.nextInt();
         System.out.println("111");
         System.out.println(age);
+        System.out.println(age);
     }
 }
